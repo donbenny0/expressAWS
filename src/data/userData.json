@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "age": 30,
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "age": 25,
+        "role": "user"
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "email": "alicejohnson@example.com",
+        "age": 28,
+        "role": "user"
+    },
+    {
+        "id": 4,
+        "name": "Bob Brown",
+        "email": "bobbrown@example.com",
+        "age": 35,
+        "role": "moderator"
+    },
+    {
+        "id": 5,
+        "name": "Charlie Davis",
+        "email": "charliedavis@example.com",
+        "age": 40,
+        "role": "admin"
+    },
+    {
+        "id": 6,
+        "name": "Diana Evans",
+        "email": "dianaevans@example.com",
+        "age": 22,
+        "role": "user"
+    },
+    {
+        "id": 7,
+        "name": "Frank Green",
+        "email": "frankgreen@example.com",
+        "age": 31,
+        "role": "user"
+    },
+    {
+        "id": 8,
+        "name": "Grace Harris",
+        "email": "graceharris@example.com",
+        "age": 27,
+        "role": "moderator"
+    },
+    {
+        "id": 9,
+        "name": "Henry Martin",
+        "email": "henrymartin@example.com",
+        "age": 29,
+        "role": "user"
+    },
+    {
+        "id": 10,
+        "name": "Irene King",
+        "email": "ireneking@example.com",
+        "age": 26,
+        "role": "user"
+    }
+]
